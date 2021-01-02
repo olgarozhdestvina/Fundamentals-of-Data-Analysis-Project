@@ -1,7 +1,7 @@
 ## Wind Turbine Power Production
 ### [Project assessment for Fundamentals of Data Analysis - GMIT 2020]
  
-<img height="300" src="https://www.nicepng.com/png/detail/985-9859210_wind-turbine-clipart-solar-wind-energy-wind-turbine.png">
+<img height="390" src="https://www.pinclipart.com/picdir/big/363-3632399_turbine-clipart-solar-energy-transparent-background-wind-turbine.png">
 
 <br>
 
