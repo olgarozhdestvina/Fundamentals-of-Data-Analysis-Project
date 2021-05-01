@@ -5,7 +5,7 @@
 
 <br>
 
-This repository contains two models, Simple Linear Regression and Polynomial Regression, that make predictions of wind turbine power from given wind speed using the data set powerproduction as a basis. There are two implementation of each model using NumPy and SciPy libraries.
+This repository contains two models, Simple Linear Regression and Polynomial Regression, that make predictions of wind turbine power from given wind speed using the data set powerproduction as a basis. There are two implementations of each model using NumPy and SciPy libraries.
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
@@ -39,4 +39,4 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 #### License
 ----
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details.
